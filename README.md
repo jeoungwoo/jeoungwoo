@@ -1,4 +1,4 @@
-## <span>  Hello, I'm jeougwoo! 👋</span>
+## <span>  Hello, I'm jeoungwoo! 👋</span>
 
 
 - 🌱 I’m currently learning React & Javascript
