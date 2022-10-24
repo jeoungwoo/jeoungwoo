@@ -1,4 +1,4 @@
-## <span>  Hello, I'm jeoungwoo! 👋</span>
+## <span>  Hello, I'm jeongwoo! 👋</span>
 
 
 - 🌱 I’m currently learning React & Javascript
@@ -7,7 +7,7 @@
 - ⚡ .. I'm developer~
 
 
-![jeoungwpp 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=jeoungwoo&include_all_commits=true)
+![jeoungwoo 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=jeoungwoo&include_all_commits=true)
 
 
 ### 🛠 Stacks
